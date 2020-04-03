@@ -1,11 +1,11 @@
 # Site settings
 author: Victor Plushko
-title: 
+title: Why I decided to study Software Engineering
 header-img: img/home-bg.png
 email: vicplushko33@gmail.com
 copyright_name: Victor Plushko
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My life that has led me to study coding.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  VicPlushko
