@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My Adventures in JS"
-date:       2020-11-09 05:54:42 +0000
+date:       2020-11-09 00:54:43 -0500
 permalink:  my_adventures_in_js
 ---
 
